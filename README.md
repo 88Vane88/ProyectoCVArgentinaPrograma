@@ -2,7 +2,7 @@
 Proyecto final del programa: Argentina programa - Frontend - Academy -Septiembre 2023
 
 #CONSIGNAS:
-1-Como en todo proyecto, es clave “bajar a papel” lo que vamos a desarrollar, por eso te proponemos que en una hoja escribas toda la información que quieras incluir en el CV,
+#1-Como en todo proyecto, es clave “bajar a papel” lo que vamos a desarrollar, por eso te proponemos que en una hoja escribas toda la información que quieras incluir en el CV,
 para poder empezar a pensar en qué estructura le darás al proyecto. 
 Como no es necesario que incluyas tu información personal, te proponemos usar esta web(https://randomuser.me/), de la cual podrás obtener datos personales de personas ficticias. 
 
