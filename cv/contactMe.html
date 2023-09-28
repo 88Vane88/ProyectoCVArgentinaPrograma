@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="../css/form.css"/>
+  <title>Form</title>
+</head>
+<body>
+  <form method="post">
+    <ul>
+      <li>
+        <label for="nombre">Nombre:</label>
+        <input id="nombre" name="nombre" type="text"/>
+      </li>
+      <li>
+        <label for="apellido">Apellido:</label>
+        <input id="apellido" name="apellido" type="text"/>
+      </li>
+      <li>
+        <label for="mail" >Mail:</label>
+        <input id="mail" name="mail" placeholder="info@info.com.ar" type="email"/>
+      </li>
+      <li>
+        <label for="telefono">Teléfono:</label>
+        <input id="telefono" name="telefono" type="number"/>
+      </li>
+      <li>
+        <label for="msg">Motivo:</label>
+        <textarea rows="10" col="20" id="msg" name="msg"></textarea>
+      </li>
+      <li class="button">
+        <button type="submit">Enviar</button>
+      </li>
+    </ul>
+  </form>
+</body>
+</html>
