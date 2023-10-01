@@ -1,3 +1,59 @@
 body{
   background-color: floralwhite;
 }
+
+.allSection {
+  font-family: Arial, sans-serif;
+  margin: 90px;
+  padding: 30px;
+  background-color: #e6dada;
+}
+
+#imgUser {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 10px;
+}
+
+div {
+  font-weight: bold;
+}
+
+
+ul, ol {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+
+hr {
+  border: 1px solid #ddd;
+  margin: 20px 0;
+}
+
+#skills, #languages {
+  font-weight: normal;
+}
+
+ul.languages li {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+ul ul li {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+
+a[name="user"] {
+  text-decoration: none;
+  color: #aa7575;
+}
+
+
